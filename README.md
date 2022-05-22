@@ -38,7 +38,7 @@ http://localhost:8080
 ```
 To access individual customer information navigate to:
 ```sh
-http://localhost:8000/{id}
+http://localhost:8080/{id}
 ```
 ![alt text](https://raw.githubusercontent.com/TDMwangi/customer_information/main/customers/challenge/img1.png)
 ![alt text](https://raw.githubusercontent.com/TDMwangi/customer_information/main/customers/challenge/img2.png)
