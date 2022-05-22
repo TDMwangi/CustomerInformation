@@ -40,6 +40,6 @@ To access individual customer information navigate to:
 ```sh
 http://localhost:8000/{id}
 ```
-![alt text](https://github.com/TDMwangi/customer_information/blob/main/customers/challenge/img1.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/TDMwangi/customer_information/main/customers/challenge/img1.png)
 ![alt text](https://github.com/TDMwangi/customer_information/blob/main/customers/challenge/img2.PNG?raw=true)
 ![alt text](https://github.com/TDMwangi/customer_information/blob/main/customers/challenge/img3.PNG?raw=true)
